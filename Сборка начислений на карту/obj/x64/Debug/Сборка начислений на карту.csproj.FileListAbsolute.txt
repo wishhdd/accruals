@@ -1,0 +1,17 @@
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\bin\x64\Debug\Сборка начислений на карту.exe.config
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\bin\x64\Debug\Сборка начислений на карту.exe.manifest
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\bin\x64\Debug\Сборка начислений на карту.application
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\bin\x64\Debug\Сборка начислений на карту.exe
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\bin\x64\Debug\Сборка начислений на карту.pdb
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.csproj.ResolveComReference.cache
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка_начислений_на_карту.AboutBox1.resources
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка_начислений_на_карту.Form1.resources
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка_начислений_на_карту.Form2.resources
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка_начислений_на_карту.Properties.Resources.resources
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.csproj.GenerateResource.cache
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.csproj.CoreCompileInputs.cache
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.exe.manifest
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.application
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.exe
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.pdb
+C:\Users\kornilov.k\Google Диск\programming\Исходники\Сборка начислений на карту\Сборка начислений на карту\obj\x64\Debug\Сборка начислений на карту.csprojAssemblyReference.cache
